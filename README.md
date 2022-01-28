@@ -2,10 +2,10 @@
 
 
 
-## This project based on :snake: django framework.
+## This project is based on  :snake:  django framework.
 
-### inside this project added five front end project.  
-1. MemoryCard (https://github.com/SHEIKHIA/MemoryCard)
+### inside this project included five front end project.  
+1. MemoryCard [https://github.com/SHEIKHIA/MemoryCard]
 2. AnimatedNavigation
 3. MealFinder
 4. RelaxApp
